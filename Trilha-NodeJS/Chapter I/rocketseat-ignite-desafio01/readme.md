@@ -137,7 +137,7 @@ Para completar todos os testes referentes à *todos* é necessário antes ter co
 
 **Observação:** O username deve ser enviado pelo header em uma propriedade chamada `username`:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c538c34-498a-4789-9bb4-0f286d9b2cf2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c538c34-498a-4789-9bb4-0f286d9b2cf2/Untitled.png)
+![image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5c538c34-498a-4789-9bb4-0f286d9b2cf2%2FUntitled.png?table=block&id=1e560d27-9a65-407c-81a6-5b1c1abe0d4f&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=1110&userId=4dad3745-593b-46e0-807b-57445cdea2c8&cache=v2)
 
 - **Should be able to list all user's todos**
 
